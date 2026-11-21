@@ -27,6 +27,10 @@ Verify the file with the SHA-256 listed in the release notes if you want.
 - One-click optimize: free working sets, clear standby list, defrag RAM.
 - Auto optimize (low memory / every N minutes / only when CPU is idle), tray icon with live usage, hotkey, run at startup.
 
+## Updates / التحديثات
+
+Open **Settings (gear icon) → Updates → Check now**. K-Clean looks for the latest release here on GitHub, downloads it, checks its SHA-256 and installs it over the current version. It only contacts GitHub and sends no information about you or your PC. You can turn off the automatic check at startup.
+
 ## Notes / ملاحظات
 
 - Needs **administrator** permission (to clean system folders and optimize memory).
