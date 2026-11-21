@@ -102,7 +102,7 @@ K-Clean-Setup.exe /uninstall /S
 - التنظيف **يحذف ملفات**. راجع الخيارات المحددة قبل ما تضغط "ابدأ التنظيف"، والعمليات الحساسة ما يمكن التراجع عنها. Cleaning deletes files, so review the selected options first.
 - حذف الملفات من صفحة تحليل المساحة يروح لسلة المحذوفات افتراضياً. Deleting from the analyzer goes to the Recycle Bin by default.
 - ملفات OneDrive اللي على السحابة فقط ما تنحسب لأنها ما تاخذ مساحة فعلية. Cloud-only OneDrive files are not counted as they use no disk space.
-- يشتغل على Windows 10 و11. Works on Windows 10 and 11.
+- مبني ومجرَّب على Windows 11، ويفترض يشتغل على Windows 10. Built and tested on Windows 11; it should also work on Windows 10.
 
 ## الخصوصية / Privacy
 
