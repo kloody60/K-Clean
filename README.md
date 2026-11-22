@@ -108,3 +108,13 @@ K-Clean-Setup.exe /uninstall /S
 
 البرنامج يشتغل على جهازك فقط. الاتصال الوحيد بالإنترنت هو التحقق من التحديثات (طلب HTTPS عادي لـ GitHub). ما فيه تتبع ولا إعلانات ولا جمع بيانات.
 K-Clean runs locally. Its only network request is the update check (a plain HTTPS request to GitHub). No tracking, no ads, no data collection.
+
+## Install from the command line / التثبيت من سطر الأوامر
+
+```
+winget install kloody60.K-Clean
+scoop bucket add kclean https://github.com/kloody60/scoop-kclean
+scoop install k-clean
+```
+
+Website / الموقع: https://kloody60.github.io/K-Clean/
